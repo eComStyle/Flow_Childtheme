@@ -1,7 +1,7 @@
 <?php
 /*    Please retain this copyright header in all versions of the software
  *
- *    Copyright (C) 2018  Josef A. Puckl | eComStyle.de
+ *    Copyright (C) Josef A. Puckl | eComStyle.de
  *
  *    This program is free software: you can redistribute it and/or modify
  *    it under the terms of the GNU General Public License as published by
@@ -24,7 +24,7 @@ $aTheme = array(
     'description'       => $oParentTheme->getInfo('description'),
     'thumbnail'         => 'theme.jpg',
     'version'           => '1.0.0',
-    'author'            => '<a href="https://ecomstyle.de" target="_blank" title="eComStyle.de"><strong style="font-size: 17px;color:#04B431;">e</strong><strong style="font-size: 16px;">ComStyle.de</strong></a>',
+    'author'            => '<a href="https://ecomstyle.de" target="_blank" title="OXID6 Module & Designs"><strong style="font-size: 17px;color:#04B431;">e</strong><strong style="font-size: 16px;">ComStyle.de</strong></a>',
     'parentTheme'       => $oParentTheme->getInfo('id'),
     'parentVersions'    => array($oParentTheme->getInfo('version'))
 );
