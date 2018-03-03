@@ -1,0 +1,22 @@
+{
+  "name": "ecs/flow_child",
+  "description": "This is a Flow-Childtheme for OXID eShop 6.",
+  "type": "oxideshop-theme",
+  "keywords": [
+    "oxid",
+    "themes",
+    "eShop"
+  ],
+  "homepage": "https:/ecomstyle.de",
+  "license": [
+    "GPL-3.0",
+    "proprietary"
+  ],
+  "minimum-stability": "dev",
+  "extra": {
+    "oxideshop": {
+      "target-directory": "flow_child",
+      "assets-directory": "out/flow_child"
+    }
+  }
+}
